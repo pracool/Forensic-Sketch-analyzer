@@ -10,7 +10,7 @@ It uses dlib and openface for face detection and aligning purpose.
 # Installation 
 App can be built using pyinstaller library.
 
-1. pip install pyinstaller ( put this files into the same directory as that of script.spec)
+1. pip install pyinstaller
 2. pip install face_recognition_models ( put this files into the same directory as that of script.spec)
 3. pyinstaller script.spec
 
